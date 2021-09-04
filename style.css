@@ -1,0 +1,12 @@
+body{
+  background: linear-gradient(to bottom, #ce5c11,#f39c12 );;
+} 
+
+h1, h2, p{
+  color: #000000;
+}
+
+h1, h2, p{
+  text-align: center;
+  font-size: xx-large;
+}
